@@ -16,6 +16,8 @@ This innovative method explores phenomena hidden from human perception due to th
 ![image](https://github.com/ubc-tuehoang/Unraveling-Complexity-in-Optical-Satellite-Imagery/assets/86985864/96a5f589-6f53-4b62-84ff-797bf0509e5e)
 
 
+_Prompt: You are an astrophysicist. Locate the surface plasma waves on Jupiter, indicated by the red arrow. Estimate the height in meters for the amplitude of the plasma wave._
+
 ![image](https://github.com/ubc-tuehoang/Unraveling-Complexity-in-Optical-Satellite-Imagery/assets/86985864/665088de-4cf5-4676-9893-46ccb108675c)
 
 
