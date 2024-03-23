@@ -16,6 +16,7 @@ This innovative method explores phenomena hidden from human perception due to th
 ![image](https://github.com/ubc-tuehoang/Unraveling-Complexity-in-Optical-Satellite-Imagery/assets/86985864/96a5f589-6f53-4b62-84ff-797bf0509e5e)
 
 
-![image](https://github.com/ubc-tuehoang/Unraveling-Complexity-in-Optical-Satellite-Imagery/assets/86985864/4a8252ba-f5fb-4116-974c-b8f8f6eca342)
+
+![image](https://github.com/ubc-tuehoang/Unraveling-Complexity-in-Optical-Satellite-Imagery/assets/86985864/acb33047-ec6c-4fe5-89c6-bc49b30d60e2)
 
 
