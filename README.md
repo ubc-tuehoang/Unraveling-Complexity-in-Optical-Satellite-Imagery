@@ -15,6 +15,9 @@ This innovative method explores phenomena hidden from human perception due to th
 
 ![image](https://github.com/ubc-tuehoang/Unraveling-Complexity-in-Optical-Satellite-Imagery/assets/86985864/96a5f589-6f53-4b62-84ff-797bf0509e5e)
 
+----------------------------------------------------------------
+
+## _The next step is to input these new CNN images into GenAI to calculate the height of the plasma wave indicated by the red arrow._
 
 _Prompt: You are an astrophysicist. Locate the surface plasma waves on Jupiter, indicated by the red arrow. Estimate the height in meters for the amplitude of the plasma wave._
 
