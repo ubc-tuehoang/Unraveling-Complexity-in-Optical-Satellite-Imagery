@@ -9,6 +9,8 @@ This approach endeavors to uncover concealed details within optical satellite im
 
 ![image](https://github.com/ubc-tuehoang/Unraveling-Complexity-in-Optical-Satellite-Imagery/assets/86985864/4219871d-e1bd-4d13-a219-7510587a76af)
 
+_Image source from the James Webb Space Telescope: https://blogs.nasa.gov/webb/wp-content/uploads/sites/326/2022/07/jupiter_hi_res_rings-1.png_
+
 This innovative method explores phenomena hidden from human perception due to the limited resolution of images can extract valuable insights from optical satellite imagery. The conversion matrix emerges as a cornerstone in efficiently altering colors across diverse images, facilitating the human eye's ability to discern nuanced color gradients. This capability is especially crucial in enhancing visibility within low-density images, where subtle color differences are often imperceptible. Leveraging an innovative system driven by Convolutional Neural Networks (CNN) further emphasizes the importance of this capability in amplifying the visibility of subtle color differentiations within such images.
 
 ![image](https://github.com/ubc-tuehoang/Unraveling-Complexity-in-Optical-Satellite-Imagery/assets/86985864/96a5f589-6f53-4b62-84ff-797bf0509e5e)
